@@ -1,0 +1,112 @@
+:root {
+  --bg-main: #050505;
+  --bg-card: rgba(20, 20, 25, 0.7);
+  --accent-cyan: #00f2ff;
+  --accent-gold: #d4af37;
+  --text-primary: #ffffff;
+  --text-secondary: #a0a0a0;
+  --success: #00ff88;
+  --warning: #ffcc00;
+  --danger: #ff4444;
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --font-main: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  font-family: var(--font-main);
+  overflow-x: hidden;
+}
+
+.dashboard-container {
+  display: flex;
+  min-height: 100vh;
+  background: radial-gradient(circle at 50% -20%, #1a1a2e 0%, #050505 70%);
+}
+
+.sidebar {
+  width: 260px;
+  background: rgba(10, 10, 15, 0.8);
+  border-right: 1px solid var(--glass-border);
+  backdrop-filter: blur(10px);
+  padding: 2rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  overflow-y: auto;
+}
+
+.glass-card {
+  background: var(--bg-card);
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  padding: 1.5rem;
+  backdrop-filter: blur(12px);
+  transition: all 0.3s ease;
+}
+
+.glass-card:hover {
+  border-color: var(--accent-cyan);
+  box-shadow: 0 0 20px rgba(0, 242, 255, 0.1);
+  transform: translateY(-2px);
+}
+
+.header-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, min-minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.stat-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--accent-cyan);
+}
+
+.arbitrage-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 2rem;
+}
+
+.arbitrage-table th {
+  text-align: left;
+  padding: 1rem;
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.arbitrage-table td {
+  padding: 1.2rem 1rem;
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.spread-tag {
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.spread-positive { background: rgba(0, 255, 136, 0.1); color: var(--success); }
+.spread-negative { background: rgba(255, 68, 68, 0.1); color: var(--danger); }
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-main); }
+::-webkit-scrollbar-thumb { background: #333; border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent-cyan); }

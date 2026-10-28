@@ -1,0 +1,378 @@
+/* PRO ALPHA (BTC) THEME */
+
+.btc-theme-wrapper {
+  --btc-bg: #090a0f;
+  --btc-panel: #11131a;
+  --btc-border: rgba(245, 158, 11, 0.15);
+  --btc-border-hover: rgba(245, 158, 11, 0.4);
+  --btc-accent: #f59e0b; /* Amber/Orange */
+  --btc-accent-glow: rgba(245, 158, 11, 0.2);
+  --btc-text: #e2e8f0;
+  --btc-muted: #64748b;
+  --btc-green: #10b981;
+  --btc-red: #ef4444;
+  
+  background-color: var(--btc-bg);
+  background-image: radial-gradient(circle at 50% 0%, rgba(245, 158, 11, 0.03) 0%, transparent 50%);
+  border-radius: 16px;
+  padding: 1.5rem;
+  font-family: 'Inter', sans-serif;
+  color: var(--btc-text);
+  border: 1px solid var(--btc-border);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* HUD Leader Card */
+.btc-theme-wrapper .pro-hud-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.btc-theme-wrapper .hud-card {
+  background: linear-gradient(145deg, var(--btc-panel), #0d0f14);
+  border: 1px solid var(--btc-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  box-shadow: inset 0 0 20px rgba(0,0,0,0.2);
+}
+
+.btc-theme-wrapper .hud-card.glow-yellow {
+  box-shadow: 0 0 20px var(--btc-accent-glow), inset 0 0 20px rgba(0,0,0,0.5);
+  border-color: var(--btc-border-hover);
+}
+
+.btc-theme-wrapper .hud-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--btc-accent), transparent);
+  opacity: 0.5;
+}
+
+.btc-theme-wrapper .hud-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--btc-muted);
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.btc-theme-wrapper .hud-val {
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+}
+
+.btc-theme-wrapper .hud-val.color-yellow { color: var(--btc-accent); }
+
+.btc-theme-wrapper .hud-desc {
+  font-size: 0.85rem;
+  color: var(--btc-muted);
+  margin-top: 0.5rem;
+}
+
+/* Main Layout */
+.btc-theme-wrapper .workstation-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Panels */
+.btc-theme-wrapper .chart-panel {
+  background: var(--btc-panel);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  height: 600px;
+}
+
+.btc-theme-wrapper .sidebar-panel {
+  background: var(--btc-panel);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  min-height: 400px;
+}
+
+/* Toolbar Headers */
+.btc-theme-wrapper .panel-header-toolbar,
+.btc-theme-wrapper .panel-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.25rem;
+  background: rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.btc-theme-wrapper .panel-title {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--btc-text);
+  letter-spacing: 0.5px;
+}
+
+.btc-theme-wrapper .header-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.btc-theme-wrapper .pair-title {
+  font-size: 1.25rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #fff;
+}
+
+.btc-theme-wrapper .live-badge {
+  background: rgba(245, 158, 11, 0.1);
+  color: var(--btc-accent);
+  border: 1px solid var(--btc-border);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+/* Chart Area */
+.btc-theme-wrapper .chart-wrapper {
+  flex: 1;
+  position: relative;
+  background: var(--btc-panel, #131722);
+}
+
+.btc-theme-wrapper .legend-toolbar {
+  padding: 0.75rem 1.25rem;
+  background: rgba(0, 0, 0, 0.2);
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.btc-theme-wrapper .legend-items {
+  display: flex;
+  gap: 1.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--btc-muted);
+}
+
+.btc-theme-wrapper .legend-dot {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.btc-theme-wrapper .legend-dot::before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.btc-theme-wrapper .legend-dot.green::before { color: var(--btc-green); }
+.btc-theme-wrapper .legend-dot.yellow::before { color: var(--btc-accent); }
+
+/* Buttons */
+.btc-theme-wrapper .timeframe-toolbar {
+  display: flex;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 4px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.btc-theme-wrapper .tf-btn {
+  background: transparent;
+  border: none;
+  color: var(--btc-muted);
+  padding: 4px 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btc-theme-wrapper .tf-btn:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.btc-theme-wrapper .tf-btn.active {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.btc-theme-wrapper .btn-refresh {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--btc-text);
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btc-theme-wrapper .btn-refresh:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.btc-theme-wrapper .btn-refresh:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.btc-theme-wrapper .spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin { 100% { transform: rotate(360deg); } }
+
+/* Sidebar Table Radar */
+.btc-theme-wrapper .radar-ticker-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0;
+}
+
+.btc-theme-wrapper .radar-ticker-list::-webkit-scrollbar {
+  width: 6px;
+}
+.btc-theme-wrapper .radar-ticker-list::-webkit-scrollbar-track {
+  background: var(--btc-bg);
+}
+.btc-theme-wrapper .radar-ticker-list::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+.btc-theme-wrapper .radar-ticker-list::-webkit-scrollbar-thumb:hover {
+  background: var(--btc-accent);
+}
+
+.btc-theme-wrapper .ticker-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.btc-theme-wrapper .ticker-table th {
+  position: sticky;
+  top: 0;
+  background: rgba(17, 19, 26, 0.95);
+  backdrop-filter: blur(10px);
+  text-align: left;
+  padding: 12px 16px;
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--btc-muted);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  z-index: 10;
+}
+
+.btc-theme-wrapper .ticker-row {
+  cursor: pointer;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.02);
+  transition: all 0.2s;
+}
+
+.btc-theme-wrapper .ticker-row:hover {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.btc-theme-wrapper .ticker-row.active {
+  background: linear-gradient(90deg, rgba(245, 158, 11, 0.1), transparent);
+  border-left: 3px solid var(--btc-accent);
+}
+
+.btc-theme-wrapper .ticker-row td {
+  padding: 14px 16px;
+  font-size: 0.85rem;
+  color: var(--btc-text);
+}
+
+.btc-theme-wrapper .symbol-cell {
+  font-weight: 700;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btc-theme-wrapper .rank-number {
+  color: var(--btc-muted);
+  font-size: 0.7rem;
+  font-weight: 600;
+  width: 20px;
+  display: inline-block;
+}
+
+.btc-theme-wrapper .signal-badge {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.btc-theme-wrapper .signal-badge.green {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--btc-green);
+}
+
+.btc-theme-wrapper .signal-badge.red {
+  background: rgba(239, 68, 68, 0.15);
+  color: var(--btc-red);
+}
+
+.btc-theme-wrapper .action-cell {
+  color: var(--btc-muted);
+  font-family: monospace;
+  font-size: 0.85rem;
+}
+
+.btc-theme-wrapper .loading-overlay,
+.btc-theme-wrapper .error-overlay,
+.btc-theme-wrapper .sidebar-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: var(--btc-accent);
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  inset: 0;
+  z-index: 20;
+}
+.btc-theme-wrapper .sidebar-loading {
+  position: static;
+  padding: 2rem;
+  color: var(--btc-muted);
+}

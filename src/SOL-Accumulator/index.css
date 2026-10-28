@@ -1,0 +1,212 @@
+:root {
+  --bg-deep: #050505;
+  --bg-card: rgba(15, 15, 15, 0.7);
+  --solana-purple: #9945FF;
+  --solana-green: #14F195;
+  --solana-cyan: #00C2FF;
+  --text-primary: #ffffff;
+  --text-secondary: #888888;
+  --accent-glow: rgba(153, 69, 255, 0.2);
+  --border-color: rgba(255, 255, 255, 0.05);
+  --glass-bg: rgba(20, 20, 20, 0.6);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-deep);
+  color: var(--text-primary);
+  font-family: 'Outfit', 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+
+.sol-app-container {
+  min-height: 100vh;
+  padding: 2rem;
+  background: radial-gradient(circle at top right, rgba(153, 69, 255, 0.05), transparent),
+              radial-gradient(circle at bottom left, rgba(20, 194, 255, 0.05), transparent);
+}
+
+.sol-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 2.5rem;
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-text {
+  font-size: 1.5rem;
+  font-weight: 900;
+  letter-spacing: -0.5px;
+  background: linear-gradient(90deg, var(--solana-purple), var(--solana-cyan));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bench-badge {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--solana-green);
+  border: 1px solid rgba(20, 241, 149, 0.2);
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.stat-card {
+  background: var(--bg-card);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--border-color);
+  padding: 1.5rem;
+  border-radius: 16px;
+  transition: all 0.3s ease;
+}
+
+.stat-card:hover {
+  border-color: rgba(153, 69, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+.stat-label {
+  color: var(--text-secondary);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+}
+
+.stat-value {
+  font-size: 1.8rem;
+  font-weight: 800;
+}
+
+.grid-layout {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+}
+
+.accumulation-card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  border-radius: 24px;
+  padding: 1.8rem;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.accumulation-card:hover {
+  border-color: var(--solana-purple);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5), 0 0 20px var(--accent-glow);
+  transform: scale(1.02);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+}
+
+.token-info h2 {
+  font-size: 1.4rem;
+  font-weight: 900;
+}
+
+.token-info p {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.relative-badge {
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-weight: 900;
+  font-size: 0.9rem;
+}
+
+.positive {
+  background: rgba(20, 241, 149, 0.1);
+  color: var(--solana-green);
+}
+
+.negative {
+  background: rgba(255, 59, 48, 0.1);
+  color: #ff3b30;
+}
+
+.chart-container {
+  height: 120px;
+  width: 100%;
+  margin: 1.5rem 0;
+  position: relative;
+}
+
+.metric-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+.metric-label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.metric-value {
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.rotation-tag {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: 0.65rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-top: 1rem;
+}
+
+.tag-hot { background: linear-gradient(45deg, #ff416c, #ff4b2b); color: white; }
+.tag-warm { background: rgba(153, 69, 255, 0.2); color: var(--solana-purple); border: 1px solid var(--solana-purple); }
+.tag-cool { background: rgba(255, 255, 255, 0.05); color: var(--text-secondary); }
+
+@keyframes pulse {
+  0% { opacity: 0.5; }
+  50% { opacity: 1; }
+  100% { opacity: 0.5; }
+}
+
+.scanning-indicator {
+  width: 8px;
+  height: 8px;
+  background: var(--solana-green);
+  border-radius: 50%;
+  box-shadow: 0 0 10px var(--solana-green);
+  animation: pulse 1.5s infinite;
+}

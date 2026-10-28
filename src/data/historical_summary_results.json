@@ -1,0 +1,1728 @@
+[
+  {
+    "symbol": "BICO",
+    "entryTimestamp": 1785711205000,
+    "entryDateStr": "02 août, 22:53",
+    "entryPrice": 0.01486,
+    "peakPrice": 0.09051,
+    "peakGainPct": 509.08479138627183,
+    "score": 77.1483781068953,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -98.30021940699866,
+      "1d": -87.44791596652212,
+      "4h": 114.62771456653324,
+      "1h": 124.1476146686348,
+      "15m": 269.52737807023556
+    }
+  },
+  {
+    "symbol": "HFT",
+    "entryTimestamp": 1785762824000,
+    "entryDateStr": "03 août, 13:13",
+    "entryPrice": 0.007903,
+    "peakPrice": 0.04002,
+    "peakGainPct": 406.3899784891813,
+    "score": -17.98246629872866,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -99.69195338379761,
+      "1d": -97.36360603332376,
+      "4h": -28.532819167281982,
+      "1h": 9.637802271722697,
+      "15m": 5.269147174395497
+    }
+  },
+  {
+    "symbol": "MMT",
+    "entryTimestamp": 1785354960000,
+    "entryDateStr": "29 juil., 19:56",
+    "entryPrice": 0.1883,
+    "peakPrice": 0.4654,
+    "peakGainPct": 147.15878916622412,
+    "score": 53.553417313803784,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -21.319478337768558,
+      "1d": -83.08946347267785,
+      "4h": 87.04057008918053,
+      "1h": 16.767192431238946,
+      "15m": 7.984338007818617
+    }
+  },
+  {
+    "symbol": "HOME",
+    "entryTimestamp": 1785350160000,
+    "entryDateStr": "29 juil., 18:36",
+    "entryPrice": 0.0054,
+    "peakPrice": 0.01203,
+    "peakGainPct": 122.77777777777779,
+    "score": -13.724190842810742,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -30.57210654660998,
+      "1d": -38.12197356304787,
+      "4h": -69.50787356810267,
+      "1h": -52.553034132644115,
+      "15m": 67.62464345451366
+    }
+  },
+  {
+    "symbol": "VIC",
+    "entryTimestamp": 1785748110000,
+    "entryDateStr": "03 août, 09:08",
+    "entryPrice": 0.0312,
+    "peakPrice": 0.06718,
+    "peakGainPct": 115.32051282051283,
+    "score": -65.9085858322773,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -95.40816718930805,
+      "1d": -95.18358735897756,
+      "4h": -34.19479430230648,
+      "1h": -30.915644460034393,
+      "15m": -20.13933306274038
+    }
+  },
+  {
+    "symbol": "ZBT",
+    "entryTimestamp": 1785960275000,
+    "entryDateStr": "05 août, 20:04",
+    "entryPrice": 0.1193,
+    "peakPrice": 0.2078,
+    "peakGainPct": 74.18273260687343,
+    "score": 10.251162634212633,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -24.035583333274783,
+      "1d": -41.88420203952763,
+      "4h": 51.20944512538057,
+      "1h": -7.666422150804196,
+      "15m": -11.590375583785075
+    }
+  },
+  {
+    "symbol": "BOME",
+    "entryTimestamp": 1785051600000,
+    "entryDateStr": "26 juil., 07:40",
+    "entryPrice": 0.0005314,
+    "peakPrice": 0.000773,
+    "peakGainPct": 45.46480993601807,
+    "score": 44.60655705405465,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -89.23273789440027,
+      "1d": -91.43193483907875,
+      "4h": 104.14770665237607,
+      "1h": 72.42096001956145,
+      "15m": 25.416767987349793
+    }
+  },
+  {
+    "symbol": "BABY",
+    "entryTimestamp": 1785553956000,
+    "entryDateStr": "01 août, 03:12",
+    "entryPrice": 0.01305,
+    "peakPrice": 0.018855930134191918,
+    "peakGainPct": 44.48988608576182,
+    "score": 67.15879649392348,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "EUL",
+    "entryTimestamp": 1784960040000,
+    "entryDateStr": "25 juil., 06:14",
+    "entryPrice": 1.359,
+    "peakPrice": 1.956333766563975,
+    "peakGainPct": 43.953919541131356,
+    "score": 52.154363736449305,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "AXTIB",
+    "entryTimestamp": 1785501741000,
+    "entryDateStr": "31 juil., 12:42",
+    "entryPrice": 65.58,
+    "peakPrice": 94.36489479665632,
+    "peakGainPct": 43.89279474939969,
+    "score": 93.36500068989562,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "GIGGLE",
+    "entryTimestamp": 1785508639000,
+    "entryDateStr": "31 juil., 14:37",
+    "entryPrice": 39.08,
+    "peakPrice": 56.22117894747885,
+    "peakGainPct": 43.861768033466866,
+    "score": 99.68331663746886,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "AIGENSYN",
+    "entryTimestamp": 1784974440000,
+    "entryDateStr": "25 juil., 10:14",
+    "entryPrice": 0.02728,
+    "peakPrice": 0.03923189816226808,
+    "peakGainPct": 43.811943410073624,
+    "score": 101.77239409680608,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "MUBARAK",
+    "entryTimestamp": 1785513149000,
+    "entryDateStr": "31 juil., 15:52",
+    "entryPrice": 0.01403,
+    "peakPrice": 0.02001547179103888,
+    "peakGainPct": 42.661951468559366,
+    "score": 99.96020555386443,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "PUMP",
+    "entryTimestamp": 1785100800000,
+    "entryDateStr": "26 juil., 21:20",
+    "entryPrice": 0.001928,
+    "peakPrice": 0.002745,
+    "peakGainPct": 42.37551867219917,
+    "score": 118.54613328525474,
+    "bullishCount": 4,
+    "perfs": {
+      "1w": 47.898228795104764,
+      "1d": -2.3284808891784903,
+      "4h": 50.835040487090644,
+      "1h": 74.0606533600649,
+      "15m": 34.82678767590066
+    }
+  },
+  {
+    "symbol": "ACT",
+    "entryTimestamp": 1785954581000,
+    "entryDateStr": "05 août, 18:29",
+    "entryPrice": 0.01021,
+    "peakPrice": 0.014500434368202465,
+    "peakGainPct": 42.0218841155971,
+    "score": 76.43225907270805,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "PEOPLE",
+    "entryTimestamp": 1785115800000,
+    "entryDateStr": "27 juil., 01:30",
+    "entryPrice": 0.00663,
+    "peakPrice": 0.009416,
+    "peakGainPct": 42.02111613876321,
+    "score": 43.995548004843506,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -93.26478704564552,
+      "1d": -46.04068119636709,
+      "4h": 49.54319303126053,
+      "1h": 70.85813019022011,
+      "15m": 29.477962828438088
+    }
+  },
+  {
+    "symbol": "NBISB",
+    "entryTimestamp": 1785318660000,
+    "entryDateStr": "29 juil., 09:51",
+    "entryPrice": 175.44,
+    "peakPrice": 248.21176000147054,
+    "peakGainPct": 41.479571364267294,
+    "score": 70.57161262739145,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "SPCXB",
+    "entryTimestamp": 1785250260000,
+    "entryDateStr": "28 juil., 14:51",
+    "entryPrice": 115.14,
+    "peakPrice": 162.7902200242878,
+    "peakGainPct": 41.384592690887445,
+    "score": 67.05980754799036,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "BANK",
+    "entryTimestamp": 1784961540000,
+    "entryDateStr": "25 juil., 06:39",
+    "entryPrice": 0.3296,
+    "peakPrice": 0.4654526787776803,
+    "peakGainPct": 41.21743894953893,
+    "score": 119.48709289355565,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "COTI",
+    "entryTimestamp": 1785183300000,
+    "entryDateStr": "27 juil., 20:15",
+    "entryPrice": 0.00971,
+    "peakPrice": 0.01361328126365793,
+    "peakGainPct": 40.1985712014205,
+    "score": 90.4763800561705,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "API3",
+    "entryTimestamp": 1785175500000,
+    "entryDateStr": "27 juil., 18:05",
+    "entryPrice": 0.2474,
+    "peakPrice": 0.3466776390098404,
+    "peakGainPct": 40.128390868973476,
+    "score": 95.34045189719313,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "REQ",
+    "entryTimestamp": 1785011940000,
+    "entryDateStr": "25 juil., 20:39",
+    "entryPrice": 0.0668,
+    "peakPrice": 0.0930825113698331,
+    "peakGainPct": 39.34507690094776,
+    "score": 69.99989488569564,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "ACX",
+    "entryTimestamp": 1785765216000,
+    "entryDateStr": "03 août, 13:53",
+    "entryPrice": 0.04217,
+    "peakPrice": 0.057902611117871386,
+    "peakGainPct": 37.307590983806946,
+    "score": 51.37664889377365,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "KAITO",
+    "entryTimestamp": 1785064500000,
+    "entryDateStr": "26 juil., 11:15",
+    "entryPrice": 1.1186,
+    "peakPrice": 1.5353547821847682,
+    "peakGainPct": 37.256819433646356,
+    "score": 116.69298433394412,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "ACE",
+    "entryTimestamp": 1785619673000,
+    "entryDateStr": "01 août, 21:27",
+    "entryPrice": 0.0711,
+    "peakPrice": 0.09702328324147172,
+    "peakGainPct": 36.46031398237936,
+    "score": 105.18876140023885,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "KITE",
+    "entryTimestamp": 1785915863000,
+    "entryDateStr": "05 août, 07:44",
+    "entryPrice": 0.1019,
+    "peakPrice": 0.136862219792861,
+    "peakGainPct": 34.31032364363199,
+    "score": 119.7857530399786,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "REZ",
+    "entryTimestamp": 1785186900000,
+    "entryDateStr": "27 juil., 21:15",
+    "entryPrice": 0.00306,
+    "peakPrice": 0.004102715616289715,
+    "peakGainPct": 34.07567373495802,
+    "score": 111.13047554142676,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "DIA",
+    "entryTimestamp": 1785029040000,
+    "entryDateStr": "26 juil., 01:24",
+    "entryPrice": 0.1135,
+    "peakPrice": 0.15159761541000605,
+    "peakGainPct": 33.566180977978895,
+    "score": 48.261555843832774,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "COOKIE",
+    "entryTimestamp": 1786038003000,
+    "entryDateStr": "06 août, 17:40",
+    "entryPrice": 0.0108,
+    "peakPrice": 0.01427,
+    "peakGainPct": 32.12962962962962,
+    "score": 6.584225759604436,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -70.72181388756195,
+      "1d": -79.198417978195,
+      "4h": -17.424532373022995,
+      "1h": 32.84561311188939,
+      "15m": 61.584389282429655
+    }
+  },
+  {
+    "symbol": "币安人生",
+    "entryTimestamp": 1785076200000,
+    "entryDateStr": "26 juil., 14:30",
+    "entryPrice": 0.6578,
+    "peakPrice": 0.8648342086639946,
+    "peakGainPct": 31.473731934325716,
+    "score": 120.7108334499372,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "BROCCOLI714",
+    "entryTimestamp": 1785509547000,
+    "entryDateStr": "31 juil., 14:52",
+    "entryPrice": 0.01461,
+    "peakPrice": 0.01915255797181208,
+    "peakGainPct": 31.09211479679726,
+    "score": 72.00551713307595,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "1000SATS",
+    "entryTimestamp": 1785545554000,
+    "entryDateStr": "01 août, 00:52",
+    "entryPrice": 0.00001238,
+    "peakPrice": 0.000015910760553424423,
+    "peakGainPct": 28.51987522959954,
+    "score": 95.47683823946096,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "TLM",
+    "entryTimestamp": 1785132300000,
+    "entryDateStr": "27 juil., 06:05",
+    "entryPrice": 0.001771,
+    "peakPrice": 0.0022719440442183518,
+    "peakGainPct": 28.285942643611055,
+    "score": 122.77127528487551,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "MIRA",
+    "entryTimestamp": 1784944140000,
+    "entryDateStr": "25 juil., 01:49",
+    "entryPrice": 0.0474,
+    "peakPrice": 0.06066645933307177,
+    "peakGainPct": 27.988310829265345,
+    "score": 98.2761733479915,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "PYR",
+    "entryTimestamp": 1784968440000,
+    "entryDateStr": "25 juil., 08:34",
+    "entryPrice": 0.095,
+    "peakPrice": 0.12102178326647381,
+    "peakGainPct": 27.391350806814536,
+    "score": 45.34737663287191,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "QI",
+    "entryTimestamp": 1785008340000,
+    "entryDateStr": "25 juil., 19:39",
+    "entryPrice": 0.001808,
+    "peakPrice": 0.002283853395038213,
+    "peakGainPct": 26.319324946803814,
+    "score": 76.48024112918503,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "TUT",
+    "entryTimestamp": 1785588475000,
+    "entryDateStr": "01 août, 12:47",
+    "entryPrice": 0.01846,
+    "peakPrice": 0.02329376433081352,
+    "peakGainPct": 26.185072214591116,
+    "score": 128.9239013542901,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "SYN",
+    "entryTimestamp": 1784938140000,
+    "entryDateStr": "25 juil., 00:09",
+    "entryPrice": 0.15332,
+    "peakPrice": 0.1934249822028933,
+    "peakGainPct": 26.157697758213732,
+    "score": 86.53006998251797,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "OGN",
+    "entryTimestamp": 1786007388000,
+    "entryDateStr": "06 août, 09:09",
+    "entryPrice": 0.01789,
+    "peakPrice": 0.022461625996635228,
+    "peakGainPct": 25.554086062801723,
+    "score": 128.82494311760158,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "PLTRB",
+    "entryTimestamp": 1785853151000,
+    "entryDateStr": "04 août, 14:19",
+    "entryPrice": 156.29,
+    "peakPrice": 196.16178270589435,
+    "peakGainPct": 25.511410010809627,
+    "score": 125.92616329938572,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "HYPER",
+    "entryTimestamp": 1785629877000,
+    "entryDateStr": "02 août, 00:17",
+    "entryPrice": 0.0645,
+    "peakPrice": 0.08025,
+    "peakGainPct": 24.418604651162788,
+    "score": -12.365289620122212,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -34.875450911974085,
+      "1d": -53.81156394293782,
+      "4h": -26.998052735914836,
+      "1h": -22.872874903493884,
+      "15m": 3.807784219115233
+    }
+  },
+  {
+    "symbol": "TST",
+    "entryTimestamp": 1785565659000,
+    "entryDateStr": "01 août, 06:27",
+    "entryPrice": 0.01299,
+    "peakPrice": 0.01610431605095557,
+    "peakGainPct": 23.97471940689431,
+    "score": -53.99360510466019,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -97.97629082930067,
+      "1d": -98.40287142347998
+    }
+  },
+  {
+    "symbol": "PYTH",
+    "entryTimestamp": 1785188700000,
+    "entryDateStr": "27 juil., 21:45",
+    "entryPrice": 0.04558,
+    "peakPrice": 0.04558,
+    "peakGainPct": 23.73111991000939,
+    "score": -31.93575135660209,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -92.94851763068881,
+      "1d": -89.50152490974584,
+      "4h": -16.054882800350445,
+      "1h": 11.354064419528363,
+      "15m": -1.679479428181628
+    }
+  },
+  {
+    "symbol": "STORJ",
+    "entryTimestamp": 1785230760000,
+    "entryDateStr": "28 juil., 09:26",
+    "entryPrice": 0.0581,
+    "peakPrice": 0.07162655984465212,
+    "peakGainPct": 23.281514362568192,
+    "score": 107.79131379998825,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "HEI",
+    "entryTimestamp": 1785613074000,
+    "entryDateStr": "01 août, 19:37",
+    "entryPrice": 0.0883,
+    "peakPrice": 0.10871496833736266,
+    "peakGainPct": 23.120009442086815,
+    "score": 104.50336657333918,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "LA",
+    "entryTimestamp": 1785028200000,
+    "entryDateStr": "26 juil., 01:10",
+    "entryPrice": 0.0688,
+    "peakPrice": 0.0688,
+    "peakGainPct": 23.054735056066924,
+    "score": -66.43607721836582,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -90.672918350587,
+      "1d": -85.96524715892801,
+      "4h": -74.06411696409268,
+      "1h": -18.4670555118026,
+      "15m": -1.6000820386879988
+    }
+  },
+  {
+    "symbol": "BIO",
+    "entryTimestamp": 1785902358000,
+    "entryDateStr": "05 août, 03:59",
+    "entryPrice": 0.0247,
+    "peakPrice": 0.030345570715993656,
+    "peakGainPct": 22.856561603213184,
+    "score": 111.46613587996582,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "ETHFI",
+    "entryTimestamp": 1785084900000,
+    "entryDateStr": "26 juil., 16:55",
+    "entryPrice": 0.4327,
+    "peakPrice": 0.4327,
+    "peakGainPct": 22.5700096618737,
+    "score": -22.413314358951347,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -76.69730038077742,
+      "1d": -68.30017838416306,
+      "4h": -12.897826314589997,
+      "1h": 7.103413568726371,
+      "15m": -8.150264210683114
+    }
+  },
+  {
+    "symbol": "SOXLB",
+    "entryTimestamp": 1785371160000,
+    "entryDateStr": "30 juil., 00:26",
+    "entryPrice": 95.95,
+    "peakPrice": 117.59458276498516,
+    "peakGainPct": 22.558189437191412,
+    "score": 94.71552169928252,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "PORTAL",
+    "entryTimestamp": 1785689596000,
+    "entryDateStr": "02 août, 16:53",
+    "entryPrice": 0.01114,
+    "peakPrice": 0.013639,
+    "peakGainPct": 22.432675044883297,
+    "score": -36.81795371589913,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -99.18768451896206,
+      "1d": -99.22183807899098,
+      "4h": -5.241651189010097,
+      "1h": -15.811812282718336,
+      "15m": 11.639132397470123
+    }
+  },
+  {
+    "symbol": "MUB",
+    "entryTimestamp": 1785857344000,
+    "entryDateStr": "04 août, 15:29",
+    "entryPrice": 894.95,
+    "peakPrice": 1093.6348853603624,
+    "peakGainPct": 22.200668792710474,
+    "score": 116.33822913942875,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "STO",
+    "entryTimestamp": 1785855244000,
+    "entryDateStr": "04 août, 14:54",
+    "entryPrice": 0.0404,
+    "peakPrice": 0.04935312764275394,
+    "peakGainPct": 22.161207036519652,
+    "score": 105.44058184638325,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "PROM",
+    "entryTimestamp": 1784953740000,
+    "entryDateStr": "25 juil., 04:29",
+    "entryPrice": 1.952,
+    "peakPrice": 2.3833713316328247,
+    "peakGainPct": 22.09894116971438,
+    "score": 57.501738970827354,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "ALICE",
+    "entryTimestamp": 1786089318000,
+    "entryDateStr": "07 août, 07:55",
+    "entryPrice": 0.1316,
+    "peakPrice": 0.16035500483253567,
+    "peakGainPct": 21.850307623507355,
+    "score": 103.03236339404279,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "HMSTR",
+    "entryTimestamp": 1785958180000,
+    "entryDateStr": "05 août, 19:29",
+    "entryPrice": 0.0001913,
+    "peakPrice": 0.0002321,
+    "peakGainPct": 21.32775744903294,
+    "score": 15.115076265326579,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -93.04538003408074,
+      "1d": -93.94256608395573,
+      "4h": 22.824028575152358,
+      "1h": 5.1526878657823625,
+      "15m": 11.766229016418956
+    }
+  },
+  {
+    "symbol": "EPIC",
+    "entryTimestamp": 1785066900000,
+    "entryDateStr": "26 juil., 11:55",
+    "entryPrice": 0.7705,
+    "peakPrice": 0.9345910306194544,
+    "peakGainPct": 21.2966944347118,
+    "score": 109.22853144692745,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "DODO",
+    "entryTimestamp": 1785174900000,
+    "entryDateStr": "27 juil., 17:55",
+    "entryPrice": 0.01841,
+    "peakPrice": 0.02231178920836801,
+    "peakGainPct": 21.193857731493807,
+    "score": 89.55942261828731,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "NOM",
+    "entryTimestamp": 1785956086000,
+    "entryDateStr": "05 août, 18:54",
+    "entryPrice": 0.00164,
+    "peakPrice": 0.001981,
+    "peakGainPct": 20.79268292682928,
+    "score": -16.93616874346982,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -84.91558060468732,
+      "1d": -87.85723367019447,
+      "4h": -62.494571997781634,
+      "1h": 12.45823343941461,
+      "15m": 11.329932391291297
+    }
+  },
+  {
+    "symbol": "SNDKB",
+    "entryTimestamp": 1785767314000,
+    "entryDateStr": "03 août, 14:28",
+    "entryPrice": 1242.34,
+    "peakPrice": 1498.7938927752336,
+    "peakGainPct": 20.642810565162012,
+    "score": 100.22837809971313,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "PARTI",
+    "entryTimestamp": 1785152700000,
+    "entryDateStr": "27 juil., 11:45",
+    "entryPrice": 0.0285,
+    "peakPrice": 0.0285,
+    "peakGainPct": 20.19701454501865,
+    "score": -48.16324701133358,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -83.54311263900924,
+      "1d": -85.1367518920192,
+      "4h": -73.2855427699184,
+      "1h": -48.92043819835655,
+      "15m": 1.7904903711115254
+    }
+  },
+  {
+    "symbol": "UNI",
+    "entryTimestamp": 1785066000000,
+    "entryDateStr": "26 juil., 11:40",
+    "entryPrice": 3.809,
+    "peakPrice": 4.573,
+    "peakGainPct": 20.057757941716993,
+    "score": 20.018540093984146,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -58.92008576997346,
+      "1d": -41.35461076184377,
+      "4h": 20.945737275440624,
+      "1h": 28.211032204035458,
+      "15m": -3.8758377025631674
+    }
+  },
+  {
+    "symbol": "XPL",
+    "entryTimestamp": 1785252360000,
+    "entryDateStr": "28 juil., 15:26",
+    "entryPrice": 0.08466,
+    "peakPrice": 0.08466,
+    "peakGainPct": 19.921988400529813,
+    "score": -52.322576693432,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -85.32187109860482,
+      "1d": -84.73121579549084,
+      "4h": -9.045595502398122,
+      "1h": -24.304867858789773,
+      "15m": -0.8836213567975392
+    }
+  },
+  {
+    "symbol": "AEVO",
+    "entryTimestamp": 1785581570000,
+    "entryDateStr": "01 août, 10:52",
+    "entryPrice": 0.02131,
+    "peakPrice": 0.02555,
+    "peakGainPct": 19.896762083528863,
+    "score": -15.15360061560768,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -98.07649847687298,
+      "1d": -98.68566141190678,
+      "4h": -10.885737130229735,
+      "1h": 4.8496503762544965,
+      "15m": 3.904641500386831
+    }
+  },
+  {
+    "symbol": "JTO",
+    "entryTimestamp": 1785117300000,
+    "entryDateStr": "27 juil., 01:55",
+    "entryPrice": 0.6063,
+    "peakPrice": 0.6063,
+    "peakGainPct": 19.779460147982054,
+    "score": -13.816922686995177,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -85.10297082879464,
+      "1d": -80.5270151012125,
+      "4h": 90.7627438465904,
+      "1h": -40.502531622942364,
+      "15m": -2.3144668893039086
+    }
+  },
+  {
+    "symbol": "ALLO",
+    "entryTimestamp": 1785164100000,
+    "entryDateStr": "27 juil., 14:55",
+    "entryPrice": 0.325,
+    "peakPrice": 0.3892320098878114,
+    "peakGainPct": 19.76369535009582,
+    "score": 102.59616050894346,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "CFX",
+    "entryTimestamp": 1785505942000,
+    "entryDateStr": "31 juil., 13:52",
+    "entryPrice": 0.04247,
+    "peakPrice": 0.05004972605010057,
+    "peakGainPct": 17.847247586768475,
+    "score": 86.15732298934182,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "APE",
+    "entryTimestamp": 1785163500000,
+    "entryDateStr": "27 juil., 14:45",
+    "entryPrice": 0.1586,
+    "peakPrice": 0.1586,
+    "peakGainPct": 16.762227834845426,
+    "score": -28.37935831079742,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -98.40925102471168,
+      "1d": -92.93359550644242,
+      "4h": 31.22832871289199,
+      "1h": -7.850921961390737,
+      "15m": -6.912115751430988
+    }
+  },
+  {
+    "symbol": "WIF",
+    "entryTimestamp": 1785004440000,
+    "entryDateStr": "25 juil., 18:34",
+    "entryPrice": 0.156,
+    "peakPrice": 0.156,
+    "peakGainPct": 16.461955998540844,
+    "score": -59.510173358500886,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -91.49456210526728,
+      "1d": -90.65737592616719,
+      "4h": -27.28662485130525,
+      "1h": -23.850971220599817,
+      "15m": -3.624900920278753
+    }
+  },
+  {
+    "symbol": "SHIB",
+    "entryTimestamp": 1784991540000,
+    "entryDateStr": "25 juil., 14:59",
+    "entryPrice": 0.00000446,
+    "peakPrice": 0.000005162,
+    "peakGainPct": 15.739910313901351,
+    "score": -20.70891120300631,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -71.9955191029317,
+      "1d": -59.11190118368267,
+      "4h": -22.121561316846538,
+      "1h": 3.4640454002396117,
+      "15m": -4.275747228727636
+    }
+  },
+  {
+    "symbol": "SENT",
+    "entryTimestamp": 1785343860000,
+    "entryDateStr": "29 juil., 16:51",
+    "entryPrice": 0.01231,
+    "peakPrice": 0.014227,
+    "peakGainPct": 15.572705117790417,
+    "score": -22.300251867640785,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -21.64721566983021,
+      "1d": -25.480253461696396,
+      "4h": -43.55964657843979,
+      "1h": -4.441579545594719,
+      "15m": -0.5785755374045668
+    }
+  },
+  {
+    "symbol": "ERA",
+    "entryTimestamp": 1785505341000,
+    "entryDateStr": "31 juil., 13:42",
+    "entryPrice": 0.0737,
+    "peakPrice": 0.08511,
+    "peakGainPct": 15.481682496607874,
+    "score": -62.27631989135312,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -87.07058346224102,
+      "1d": -90.71304994446119,
+      "4h": -51.191585291986975,
+      "1h": -20.446651011261032,
+      "15m": -1.7156765647895529
+    }
+  },
+  {
+    "symbol": "ESP",
+    "entryTimestamp": 1785074700000,
+    "entryDateStr": "26 juil., 14:05",
+    "entryPrice": 0.09257,
+    "peakPrice": 0.10614875491664298,
+    "peakGainPct": 14.668634456781875,
+    "score": 94.88034165220805,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "STG",
+    "entryTimestamp": 1786071008000,
+    "entryDateStr": "07 août, 02:50",
+    "entryPrice": 0.1699,
+    "peakPrice": 0.19475447129826054,
+    "peakGainPct": 14.628882459246936,
+    "score": -51.50834157457031,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -96.63138627700864,
+      "1d": -90.07570276587086
+    }
+  },
+  {
+    "symbol": "VANRY",
+    "entryTimestamp": 1784978040000,
+    "entryDateStr": "25 juil., 11:14",
+    "entryPrice": 0.005037,
+    "peakPrice": 0.005037,
+    "peakGainPct": 13.961414053073069,
+    "score": -63.31429620802604,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -94.60348676519908,
+      "1d": -95.57003937923871,
+      "4h": -39.70141919274883,
+      "1h": -2.0133727351422515,
+      "15m": -27.984505848355347
+    }
+  },
+  {
+    "symbol": "RE",
+    "entryTimestamp": 1784965440000,
+    "entryDateStr": "25 juil., 07:44",
+    "entryPrice": 0.5831,
+    "peakPrice": 0.664121896423807,
+    "peakGainPct": 13.895025968754432,
+    "score": 99.86930185951985,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "NEIRO",
+    "entryTimestamp": 1785541951000,
+    "entryDateStr": "31 juil., 23:52",
+    "entryPrice": 0.00006373,
+    "peakPrice": 0.00007189270893312936,
+    "peakGainPct": 12.808267586896843,
+    "score": -53.27912476849973,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -96.68732201403974,
+      "1d": -97.09171265715125
+    }
+  },
+  {
+    "symbol": "LDO",
+    "entryTimestamp": 1785077700000,
+    "entryDateStr": "26 juil., 14:55",
+    "entryPrice": 0.3906,
+    "peakPrice": 0.3906,
+    "peakGainPct": 12.613757011452948,
+    "score": -28.515657194056445,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -81.52649985231945,
+      "1d": -90.99296161735947,
+      "4h": -2.11599476462702,
+      "1h": 9.291157598491703,
+      "15m": -22.79941520869084
+    }
+  },
+  {
+    "symbol": "RESOLV",
+    "entryTimestamp": 1786012191000,
+    "entryDateStr": "06 août, 10:29",
+    "entryPrice": 0.01923,
+    "peakPrice": 0.02162,
+    "peakGainPct": 12.428497139885595,
+    "score": -44.32309534759551,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -85.58301705247882,
+      "1d": -89.27115809982199,
+      "4h": -74.326441076058,
+      "1h": -15.679010727524695,
+      "15m": 8.86739117443937
+    }
+  },
+  {
+    "symbol": "KORUB",
+    "entryTimestamp": 1785637377000,
+    "entryDateStr": "02 août, 02:22",
+    "entryPrice": 15.8,
+    "peakPrice": 17.739145039264564,
+    "peakGainPct": 12.273069868763056,
+    "score": 122.07510129750732,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "LPT",
+    "entryTimestamp": 1785061200000,
+    "entryDateStr": "26 juil., 10:20",
+    "entryPrice": 1.76,
+    "peakPrice": 1.9755592070665435,
+    "peakGainPct": 12.247682219689974,
+    "score": 51.45298663863345,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "CTSI",
+    "entryTimestamp": 1786005299000,
+    "entryDateStr": "06 août, 08:34",
+    "entryPrice": 0.03197,
+    "peakPrice": 0.03574290740838169,
+    "peakGainPct": 11.801399463189517,
+    "score": 71.50891633961876,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "WAXP",
+    "entryTimestamp": 1785741815000,
+    "entryDateStr": "03 août, 07:23",
+    "entryPrice": 0.00431,
+    "peakPrice": 0.004803,
+    "peakGainPct": 11.438515081206505,
+    "score": -41.717629282724005,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -98.17068426354811,
+      "1d": -95.44380500201632,
+      "4h": -36.33956702566516,
+      "1h": -9.327100161500859,
+      "15m": 2.6150567620266427
+    }
+  },
+  {
+    "symbol": "AMDB",
+    "entryTimestamp": 1785936868000,
+    "entryDateStr": "05 août, 13:34",
+    "entryPrice": 494.45,
+    "peakPrice": 548.661633846281,
+    "peakGainPct": 10.964027474220046,
+    "score": 120.11733090073166,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "KMNO",
+    "entryTimestamp": 1786071016000,
+    "entryDateStr": "07 août, 02:50",
+    "entryPrice": 0.0219,
+    "peakPrice": 0.02426,
+    "peakGainPct": 10.776255707762562,
+    "score": -31.09137165791795,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -54.402439754878586,
+      "1d": -27.0522236115303,
+      "4h": -25.456597095221113,
+      "1h": -15.885790127830921,
+      "15m": -5.333958903529381
+    }
+  },
+  {
+    "symbol": "FLOW",
+    "entryTimestamp": 1785335160000,
+    "entryDateStr": "29 juil., 14:26",
+    "entryPrice": 0.02881,
+    "peakPrice": 0.03181,
+    "peakGainPct": 10.413051023950015,
+    "score": -17.09337499178804,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -99.42200266109154,
+      "1d": -96.79977544703696,
+      "4h": -16.974238896532277,
+      "1h": 0.6617870469310472,
+      "15m": 2.2874939056545576
+    }
+  },
+  {
+    "symbol": "RIF",
+    "entryTimestamp": 1785024840000,
+    "entryDateStr": "26 juil., 00:14",
+    "entryPrice": 0.0819,
+    "peakPrice": 0.09030153088776562,
+    "peakGainPct": 10.258279472241288,
+    "score": 54.988879536868794,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "DEXE",
+    "entryTimestamp": 1784939040000,
+    "entryDateStr": "25 juil., 00:24",
+    "entryPrice": 4.093,
+    "peakPrice": 4.504268244968397,
+    "peakGainPct": 10.048088076432869,
+    "score": 116.7538033153153,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "MUUB",
+    "entryTimestamp": 1785936881000,
+    "entryDateStr": "05 août, 13:34",
+    "entryPrice": 28.06,
+    "peakPrice": 30.78707043073938,
+    "peakGainPct": 9.718711442406919,
+    "score": 56.60922359094801,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "NIL",
+    "entryTimestamp": 1785117300000,
+    "entryDateStr": "27 juil., 01:55",
+    "entryPrice": 0.04117,
+    "peakPrice": 0.04513872416979113,
+    "peakGainPct": 9.639844959414944,
+    "score": 40.29004964036332,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "SCR",
+    "entryTimestamp": 1784996040000,
+    "entryDateStr": "25 juil., 16:14",
+    "entryPrice": 0.02294,
+    "peakPrice": 0.02294,
+    "peakGainPct": 9.184711029163427,
+    "score": -44.22119460264963,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -93.68778976706515,
+      "1d": -95.87058624823098,
+      "4h": -45.376709133159714,
+      "1h": -25.727995311015405,
+      "15m": 7.873300128119073
+    }
+  },
+  {
+    "symbol": "CRCLB",
+    "entryTimestamp": 1785850450000,
+    "entryDateStr": "04 août, 13:34",
+    "entryPrice": 63.03,
+    "peakPrice": 68.72547417594069,
+    "peakGainPct": 9.03613227977263,
+    "score": 111.25874484242033,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "LISTA",
+    "entryTimestamp": 1785023340000,
+    "entryDateStr": "25 juil., 23:49",
+    "entryPrice": 0.0496,
+    "peakPrice": 0.05375599491054092,
+    "peakGainPct": 8.379021997058315,
+    "score": 99.93113238225638,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "ENA",
+    "entryTimestamp": 1785108300000,
+    "entryDateStr": "26 juil., 23:25",
+    "entryPrice": 0.0907,
+    "peakPrice": 0.09821,
+    "peakGainPct": 8.2800441014333,
+    "score": -3.788392588197958,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -82.95712575836905,
+      "1d": -73.56782226284484,
+      "4h": -9.203167231131088,
+      "1h": 5.17051200963091,
+      "15m": 5.557573498055438
+    }
+  },
+  {
+    "symbol": "ACH",
+    "entryTimestamp": 1785220500000,
+    "entryDateStr": "28 juil., 06:35",
+    "entryPrice": 0.00458,
+    "peakPrice": 0.00494,
+    "peakGainPct": 7.860262008733626,
+    "score": -57.4422058825632,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -89.89124852353918,
+      "1d": -83.27957919244723,
+      "4h": -37.1811714012614,
+      "1h": -6.765911794968006,
+      "15m": -12.038154778921594
+    }
+  },
+  {
+    "symbol": "EDEN",
+    "entryTimestamp": 1785699799000,
+    "entryDateStr": "02 août, 19:43",
+    "entryPrice": 0.0424,
+    "peakPrice": 0.04552388267534657,
+    "peakGainPct": 7.367647819213613,
+    "score": 97.36501900274197,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "ATM",
+    "entryTimestamp": 1784987340000,
+    "entryDateStr": "25 juil., 13:49",
+    "entryPrice": 1.942,
+    "peakPrice": 2.0835874279090616,
+    "peakGainPct": 7.290804732701424,
+    "score": 119.78098350273642,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "MANTRA",
+    "entryTimestamp": 1785667087000,
+    "entryDateStr": "02 août, 10:38",
+    "entryPrice": 0.00633,
+    "peakPrice": 0.006784,
+    "peakGainPct": 7.172195892575046,
+    "score": -35.72583277547929,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -66.25349427517769,
+      "1d": -72.29331057128732,
+      "4h": -73.62415012407429,
+      "1h": -21.089695104306514,
+      "15m": 1.1182744035667462
+    }
+  },
+  {
+    "symbol": "FIDA",
+    "entryTimestamp": 1785911372000,
+    "entryDateStr": "05 août, 06:29",
+    "entryPrice": 0.02139,
+    "peakPrice": 0.0229,
+    "peakGainPct": 7.059373539036938,
+    "score": -32.6453466488197,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -98.73111549257062,
+      "1d": -93.02317603324842,
+      "4h": 17.999195438529927,
+      "1h": -21.708667377497054,
+      "15m": -1.1375697381783743
+    }
+  },
+  {
+    "symbol": "SNXXB",
+    "entryTimestamp": 1785718702000,
+    "entryDateStr": "03 août, 00:58",
+    "entryPrice": 9.98,
+    "peakPrice": 10.6692185379278,
+    "peakGainPct": 6.905997374026056,
+    "score": 84.67426926528952,
+    "bullishCount": 4,
+    "perfs": {}
+  },
+  {
+    "symbol": "TNSR",
+    "entryTimestamp": 1784963640000,
+    "entryDateStr": "25 juil., 07:14",
+    "entryPrice": 0.0365,
+    "peakPrice": 0.0365,
+    "peakGainPct": 6.9042675788671275,
+    "score": -60.15718455909904,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -93.86548441012626,
+      "1d": -96.0717660172069,
+      "4h": -31.962710989138998,
+      "1h": -10.327377286288723,
+      "15m": -0.3794894098833795
+    }
+  },
+  {
+    "symbol": "NIGHT",
+    "entryTimestamp": 1785351060000,
+    "entryDateStr": "29 juil., 18:51",
+    "entryPrice": 0.01888,
+    "peakPrice": 0.02013,
+    "peakGainPct": 6.620762711864393,
+    "score": -40.30011461792592,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -52.62030426605391,
+      "1d": -17.248383773265516,
+      "4h": -67.95007109709334,
+      "1h": -43.4447857795407,
+      "15m": -0.9519530844359905
+    }
+  },
+  {
+    "symbol": "ORDI",
+    "entryTimestamp": 1785035400000,
+    "entryDateStr": "26 juil., 03:10",
+    "entryPrice": 3.871,
+    "peakPrice": 3.871,
+    "peakGainPct": 6.549838801343665,
+    "score": 27.55135908188828,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -75.11585459319946,
+      "1d": -87.9648113160203,
+      "4h": 54.677782093154946,
+      "1h": 3.1882772511410433,
+      "15m": 6.635202825510457
+    }
+  },
+  {
+    "symbol": "C98",
+    "entryTimestamp": 1786097716000,
+    "entryDateStr": "07 août, 10:15",
+    "entryPrice": 0.01743,
+    "peakPrice": 0.01854,
+    "peakGainPct": 6.3683304647160055,
+    "score": -17.2086783070674,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -98.71627329357511,
+      "1d": -93.75028480595815,
+      "4h": -39.82954920423739,
+      "1h": 10.902256923893775,
+      "15m": 21.743461847580832
+    }
+  },
+  {
+    "symbol": "ROSE",
+    "entryTimestamp": 1785607971000,
+    "entryDateStr": "01 août, 18:12",
+    "entryPrice": 0.00556,
+    "peakPrice": 0.005896,
+    "peakGainPct": 6.043165467625906,
+    "score": -43.569526852283694,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -96.41737671215911,
+      "1d": -93.82030561824429,
+      "4h": -52.11236649776107,
+      "1h": -8.19412944827915,
+      "15m": 4.623552827191945
+    }
+  },
+  {
+    "symbol": "PEPE",
+    "entryTimestamp": 1785033240000,
+    "entryDateStr": "26 juil., 02:34",
+    "entryPrice": 0.00000282,
+    "peakPrice": 0.00000299,
+    "peakGainPct": 6.028368794326243,
+    "score": 57.25315843047625,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -70.76159612576205,
+      "1d": 85.70379231845385,
+      "4h": -26.34510333552035,
+      "1h": 14.790813866580626,
+      "15m": 1.0608777570837886
+    }
+  },
+  {
+    "symbol": "DGB",
+    "entryTimestamp": 1785169800000,
+    "entryDateStr": "27 juil., 16:30",
+    "entryPrice": 0.00413,
+    "peakPrice": 0.004357393123629487,
+    "peakGainPct": 5.505886770689759,
+    "score": -45.447696775949915,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -76.8581532786083,
+      "1d": -71.37743734721525,
+      "4h": -22.729457277818064
+    }
+  },
+  {
+    "symbol": "ZAMA",
+    "entryTimestamp": 1784940840000,
+    "entryDateStr": "25 juil., 00:54",
+    "entryPrice": 0.05608,
+    "peakPrice": 0.05914,
+    "peakGainPct": 5.456490727532097,
+    "score": 145.83736039580606,
+    "bullishCount": 4,
+    "perfs": {
+      "1w": 83.09745447644097,
+      "1d": 71.73325856727605,
+      "4h": 100.28034200878584,
+      "1h": 36.62456982283762,
+      "15m": -25.749444641280455
+    }
+  },
+  {
+    "symbol": "ONDO",
+    "entryTimestamp": 1785083100000,
+    "entryDateStr": "26 juil., 16:25",
+    "entryPrice": 0.4058,
+    "peakPrice": 0.4279,
+    "peakGainPct": 5.446032528339086,
+    "score": 125.2989389324309,
+    "bullishCount": 4,
+    "perfs": {
+      "1w": 47.1397106743955,
+      "1d": 93.60713289290156,
+      "4h": 43.35930522841579,
+      "1h": 5.987083362967209,
+      "15m": -18.146810432413844
+    }
+  },
+  {
+    "symbol": "AVAX",
+    "entryTimestamp": 1785648179000,
+    "entryDateStr": "02 août, 05:22",
+    "entryPrice": 6.634,
+    "peakPrice": 6.988,
+    "peakGainPct": 5.336147120892374,
+    "score": -46.99352938221419,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -78.7552667306268,
+      "1d": -71.74594692055305,
+      "4h": -21.01821474347668,
+      "1h": -6.124216808588052,
+      "15m": -3.0818716290433987
+    }
+  },
+  {
+    "symbol": "ZKP",
+    "entryTimestamp": 1786156533000,
+    "entryDateStr": "08 août, 02:35",
+    "entryPrice": 0.0475,
+    "peakPrice": 0.05,
+    "peakGainPct": 5.263157894736847,
+    "score": -34.54736463997378,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -54.176800303894844,
+      "1d": -29.22106440870465,
+      "4h": -46.32580234081852,
+      "1h": -9.02469878337956,
+      "15m": -3.7019316095851935
+    }
+  },
+  {
+    "symbol": "LUMIA",
+    "entryTimestamp": 1784967240000,
+    "entryDateStr": "25 juil., 08:14",
+    "entryPrice": 0.075,
+    "peakPrice": 0.0788568122657672,
+    "peakGainPct": 5.142416354356269,
+    "score": 67.16288754343164,
+    "bullishCount": 3,
+    "perfs": {}
+  },
+  {
+    "symbol": "PLUME",
+    "entryTimestamp": 1786031396000,
+    "entryDateStr": "06 août, 15:49",
+    "entryPrice": 0.01255,
+    "peakPrice": 0.01318,
+    "peakGainPct": 5.019920318725102,
+    "score": 9.149084204251189,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -68.69680426105003,
+      "1d": -74.88625448719628,
+      "4h": 33.49935570184421,
+      "1h": 12.756994479928105,
+      "15m": -1.3373120799278808
+    }
+  },
+  {
+    "symbol": "ADA",
+    "entryTimestamp": 1786027493000,
+    "entryDateStr": "06 août, 14:44",
+    "entryPrice": 0.2021,
+    "peakPrice": 0.2116,
+    "peakGainPct": 4.700643245917867,
+    "score": 3.6195965919170874,
+    "bullishCount": 2,
+    "perfs": {
+      "1w": -75.47349097124913,
+      "1d": -59.26685585368091,
+      "4h": -23.478221703217912,
+      "1h": 28.26766613242866,
+      "15m": 15.338522674913365
+    }
+  },
+  {
+    "symbol": "ATOM",
+    "entryTimestamp": 1785770619000,
+    "entryDateStr": "03 août, 15:23",
+    "entryPrice": 1.347,
+    "peakPrice": 1.404,
+    "peakGainPct": 4.2316258351893055,
+    "score": -37.20024694008386,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -86.47983423811793,
+      "1d": -88.81388622335228,
+      "4h": -33.022266929384045,
+      "1h": -17.998977477255263,
+      "15m": 2.5147489465469257
+    }
+  },
+  {
+    "symbol": "OPN",
+    "entryTimestamp": 1785203100000,
+    "entryDateStr": "28 juil., 01:45",
+    "entryPrice": 0.054,
+    "peakPrice": 0.05623,
+    "peakGainPct": 4.129629629629635,
+    "score": -45.73996277821317,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -82.07088597273999,
+      "1d": -83.57868080801725,
+      "4h": -85.18095099540452,
+      "1h": -24.382400728354913,
+      "15m": 4.695235239472736
+    }
+  },
+  {
+    "symbol": "HOLO",
+    "entryTimestamp": 1785343860000,
+    "entryDateStr": "29 juil., 16:51",
+    "entryPrice": 0.077,
+    "peakPrice": 0.0798,
+    "peakGainPct": 3.6363636363636327,
+    "score": -5.782859426122176,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -50.675130535713066,
+      "1d": -56.177406938009476,
+      "4h": 30.835071929434406,
+      "1h": -7.163470272336034,
+      "15m": -16.28462375942362
+    }
+  },
+  {
+    "symbol": "AERO",
+    "entryTimestamp": 1785124500000,
+    "entryDateStr": "27 juil., 03:55",
+    "entryPrice": 0.4402,
+    "peakPrice": 0.4507,
+    "peakGainPct": 2.385279418446163,
+    "score": 1.432135165334138,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -40.9330876341751,
+      "1d": -41.775651261620375,
+      "4h": 37.685176481552446,
+      "1h": -16.61414199094359,
+      "15m": -8.889397266771883
+    }
+  },
+  {
+    "symbol": "ZIL",
+    "entryTimestamp": 1785259260000,
+    "entryDateStr": "28 juil., 17:21",
+    "entryPrice": 0.002685,
+    "peakPrice": 0.002739,
+    "peakGainPct": 2.0111731843575504,
+    "score": -64.02943798823118,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -92.91972465090237,
+      "1d": -91.62345305829845,
+      "4h": -40.78316724899677,
+      "1h": -24.68501856713363,
+      "15m": -13.88271093516454
+    }
+  },
+  {
+    "symbol": "MORPHO",
+    "entryTimestamp": 1785117300000,
+    "entryDateStr": "27 juil., 01:55",
+    "entryPrice": 2.003,
+    "peakPrice": 2.035,
+    "peakGainPct": 1.597603594608089,
+    "score": 445.56478847517815,
+    "bullishCount": 4,
+    "perfs": {
+      "1w": 743.1623682841789,
+      "1d": 552.7698654491313,
+      "4h": 24.43409649463199,
+      "1h": 2.048678113314889,
+      "15m": -7.705093882819912
+    }
+  },
+  {
+    "symbol": "AAVE",
+    "entryTimestamp": 1785105000000,
+    "entryDateStr": "26 juil., 22:30",
+    "entryPrice": 100.59,
+    "peakPrice": 101.53,
+    "peakGainPct": 0.9344865294760888,
+    "score": -19.33594270243194,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -22.25421088081545,
+      "1d": -26.101516738901935,
+      "4h": -19.65005225593201,
+      "1h": -7.79921725438915,
+      "15m": -10.34407214117046
+    }
+  },
+  {
+    "symbol": "FIL",
+    "entryTimestamp": 1786034700000,
+    "entryDateStr": "06 août, 16:45",
+    "entryPrice": 0.7314,
+    "peakPrice": 0.738,
+    "peakGainPct": 0.902378999179647,
+    "score": -56.449994993337675,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -97.02750146018639,
+      "1d": -89.1036996000325,
+      "4h": -18.969523594825493,
+      "1h": -7.8300775314207245,
+      "15m": -0.9740330659543198
+    }
+  },
+  {
+    "symbol": "XAI",
+    "entryTimestamp": 1786082716000,
+    "entryDateStr": "07 août, 06:05",
+    "entryPrice": 0.00914,
+    "peakPrice": 0.009191,
+    "peakGainPct": 0.5579868708971439,
+    "score": -38.797573355666195,
+    "bullishCount": 1,
+    "perfs": {
+      "1w": -99.01862323079189,
+      "1d": -98.48184736197611,
+      "4h": -22.56874238370471,
+      "1h": -8.186494411317815,
+      "15m": 12.701980925040079
+    }
+  },
+  {
+    "symbol": "KSM",
+    "entryTimestamp": 1785616680000,
+    "entryDateStr": "01 août, 20:38",
+    "entryPrice": 3.22,
+    "peakPrice": 3.235,
+    "peakGainPct": 0.46583850931676024,
+    "score": -59.753177760058854,
+    "bullishCount": 3,
+    "perfs": {
+      "1w": -97.99326392501038,
+      "1d": -90.80186194127243,
+      "4h": -32.58285435886431,
+      "1h": -5.6396283717693505,
+      "15m": -2.9221796969936835
+    }
+  }
+]
