@@ -4139,7 +4139,7 @@ function StandalonePureVolumeProfileWorkspace({
 
 
 
-export default function MonthlyTop50BenchmarkComparator() {
+export default function MonthlyTop50BenchmarkComparator({ onTop50Loaded } = {}) {
   const [tokensData, setTokensData] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [progressMsg, setProgressMsg] = useState('Démarrage du scan...');
@@ -4773,6 +4773,27 @@ export default function MonthlyTop50BenchmarkComparator() {
 
       if (allResults.length > 0) {
         setTokensData(allResults);
+        try {
+          const sortedTop50 = [...allResults]
+            .sort((a, b) => (b.scoreMonth || 0) - (a.scoreMonth || 0))
+            .slice(0, 50)
+            .map((t, idx) => ({
+              rankMonth: idx + 1,
+              symbol: t.symbol,
+              cleanSymbol: t.cleanSymbol,
+              scoreMonth: t.scoreMonth,
+              confMonth: t.confMonth,
+              price: t.price,
+              turnover24h: t.turnover24h,
+              volume24h: t.volume24h,
+              p30d: t.p30d,
+              p1d: t.p1d
+            }));
+          localStorage.setItem('nebula_top50_month_cache', JSON.stringify(sortedTop50));
+          if (typeof onTop50Loaded === 'function') {
+            onTop50Loaded(sortedTop50);
+          }
+        } catch (_) {}
       }
 
       setProgressPct(100);
